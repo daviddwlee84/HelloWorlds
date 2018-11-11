@@ -6,8 +6,8 @@ Collecting ("symbolic") hello world program from different languages or stuffs.
 
 TODO: Arrange these things in some well organized way. (and fill them up :P)
 
--|
-----|
+-|Personal comment
+----|--
 C|
 C++|
 Go|
@@ -33,6 +33,44 @@ Android|
 Docker|
 [pytest](https://github.com/daviddwlee84/PythonUnitTesting)|
 [Jest](https://github.com/daviddwlee84/CircleCiPractice)|
+
+## Tools
+
+### Package Manager
+
+* pip
+* Anaconda
+* npm
+* yarn
+* Homebrew
+* apt-get
+* apt
+* opkg
+* yum
+
+...
+
+### Version Control
+
+* git
+* svn
+
+### Text Editor
+
+* vim
+* nano
+* emacs
+* VS Code
+* Sublime
+* Notepad++
+
+### IDE
+
+* Android Studio
+* Xcode
+* Visual Studio
+* Unity
+* Dev C++
 
 ## Some macOS Stuff
 
