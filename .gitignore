@@ -2,3 +2,6 @@
 Cython/*.c
 Cython/*.so
 Cython/build
+
+# CMake
+CMake/*/build
